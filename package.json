@@ -1,0 +1,9 @@
+{
+  "name": "omnichain-message-router",
+  "version": "1.0.0",
+  "dependencies": {
+    "@layerzerolabs/lz-evm-oapp-v2": "^2.1.27",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
